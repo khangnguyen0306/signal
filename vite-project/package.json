@@ -12,6 +12,7 @@
   "dependencies": {
     "@microsoft/signalr": "^8.0.7",
     "axios": "^1.8.4",
+    "jquery": "^3.7.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },

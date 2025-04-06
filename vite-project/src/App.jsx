@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './App.css';
-import SignContract from './page/sign'; 
+import SignContract from './page/Sign'; 
 
 function App() {
   return (
